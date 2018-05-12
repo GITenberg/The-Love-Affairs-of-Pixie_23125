@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9729
     wikipedia: http://en.wikipedia.org/wiki/Mrs_George_de_Horne_Vaizey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23125#The-Love-Affairs-of-Pixie
 gutenberg_issued: '2007-10-20'
 gutenberg_type: Text
 identifiers:
